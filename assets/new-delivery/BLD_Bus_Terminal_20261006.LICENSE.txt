@@ -1,0 +1,19 @@
+{
+  "sourceCredits": {},
+  "licenseStatus": "No license or attribution file in supplied OBJ folder; source provenance pending",
+  "sourceFiles": [
+    {
+      "file": "Terminal de Ônibus\\model_0.obj",
+      "sha256": "9f5c83450f11e205204b5286be6e682a2f21723a5b6ddf4bd34e29839d924a6b",
+      "geometrySha256": "1494161e9dee64b4a8d712fcebb0674e6022ade8b61ab5a3b006feb705ece9ee",
+      "missingMtllib": [
+        "model_0.mtl"
+      ]
+    }
+  ],
+  "modifications": [
+    "Uniform normalization of freshly imported static derivative only; centered horizontal origin and minimum Z=0; source geometry and files retained",
+    "Missing OBJ MTL: documented provisional part-level PBR materials; no source logos/textures copied to buses",
+    "Terminal diffuse and normal association recovered from unambiguous matching basename; specular map retained in source, not asserted to be roughness"
+  ]
+}

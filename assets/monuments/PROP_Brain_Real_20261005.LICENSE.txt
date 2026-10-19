@@ -1,0 +1,13 @@
+PROP_Brain_Real_20261005.glb
+
+Derived from: 3D Reference Organ for Brain, Male v1.4 (2024).
+Creators: Kristen Browne and Heidi Schlehlein, HRA / HuBMAP.
+Based on Allen Human Reference Atlas data (Ding et al., 2016).
+Source: https://purl.humanatlas.io/ref-organ/brain-male/v1.4
+DOI: https://doi.org/10.48539/HBM538.NKCT.649
+License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Changes by Romario Vicente Amaro for PREPARATORIO: uniform monumental scale,
+centered origin and zero base, neutral tissue PBR material, polygon reduction.
+Original anatomical mesh components and source file retained separately.

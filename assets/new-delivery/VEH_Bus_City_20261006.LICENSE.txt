@@ -1,0 +1,268 @@
+{
+  "sourceCredits": {},
+  "licenseStatus": "No license or attribution file in supplied OBJ folder; source provenance pending",
+  "sourceFiles": [
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_0.obj",
+      "sha256": "24bf6a14abf10315b4046bff65c81f48785d6db6729fe840135742c3bcf57bfa",
+      "geometrySha256": "bc90dc436750cf8fc7f540a095206db067107b8b8d2ae9e2de495511d3fd9eaf",
+      "missingMtllib": [
+        "model_0.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_1.obj",
+      "sha256": "019c11568422fa4cd3c2c6e87df696911396a41f63a54a9b1f096fd1a8cd54bb",
+      "geometrySha256": "6fc7a9bd739b62229ad6e273c7aae2aed6d7c94563b13290b9db8f1db887bc47",
+      "missingMtllib": [
+        "model_1.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_2.obj",
+      "sha256": "e49303f31e4ee6cffa53096a2575bb3f88d61fb45f5d5d01abd31f00e7cf4c8f",
+      "geometrySha256": "a5c1c1747913054f87c04221fd30ead4aad329d42f6a4b3c6ca4ef1fa772eef6",
+      "missingMtllib": [
+        "model_2.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_3.obj",
+      "sha256": "44500fcd06cbd860669f827e086514851fbf6654f2b0301a461a5dbbd03f429b",
+      "geometrySha256": "feb198ecc51a61a549887ca5a76c8a534dab3111bfcfcda2ef4f9188412fa8b7",
+      "missingMtllib": [
+        "model_3.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_4.obj",
+      "sha256": "1e631d9c6c4236def82693d509124d62af23f8b4ca582e675a37bf2938da0494",
+      "geometrySha256": "b35c166eabff901dbc05e7f2b0c1c62032388feb47226f44c8bc1c9587d9c02b",
+      "missingMtllib": [
+        "model_4.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_5.obj",
+      "sha256": "676927cec11ac8aeec5dce1721e66669248672f297ed4941dda4590c72988031",
+      "geometrySha256": "8bf3f45d2a978fc65b4d3fb56e2e6ba79e7c9a7ac5c6c433b8be42a8fcd2245d",
+      "missingMtllib": [
+        "model_5.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_6.obj",
+      "sha256": "b4448f279a93a6f3497130c14c08a653f0f356df7f1c61d84d78560e5cd7f546",
+      "geometrySha256": "b4fa02e663943c4bb777112b8a5f492a76e934eb1ddc5bb3846d1ebd6e03f79e",
+      "missingMtllib": [
+        "model_6.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_7.obj",
+      "sha256": "e926c356d119da684d8625adad86a3c96b71ef82fac39820f4a1486d9b3e1d0d",
+      "geometrySha256": "63d35ac67b1b162bc7c84f6da06089fd1baf6a0fcd4b1aa3f3e64040b68e979e",
+      "missingMtllib": [
+        "model_7.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_8.obj",
+      "sha256": "b5dfe63fef4c541cbe61f34b42e686deefafd00ac6ec05fdd0c5923eddb7aac3",
+      "geometrySha256": "e34cfe6d8a115554ecac39b41806b3e3331d854880afa10e047c92358712d1c6",
+      "missingMtllib": [
+        "model_8.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_9.obj",
+      "sha256": "fb68964b63dd479ac2811e59c71f7942b3139cabe469e46eaf4cc9bae0639ab0",
+      "geometrySha256": "34ec709bbd88b093bc0f43a47685d32e67529eede26e0f875fd0a8c580f1ff31",
+      "missingMtllib": [
+        "model_9.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_10.obj",
+      "sha256": "4b3031c5455d51073176e4deaaef6fdc21979ad18c638ea792ece0c0469c98ba",
+      "geometrySha256": "c04049e574bebee0132a0d1176b05d3f806dde1afc4335d9d6f9738ec172aa20",
+      "missingMtllib": [
+        "model_10.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_11.obj",
+      "sha256": "608a36d6167be3ff82a5469d34ea459846ef1657b9da13a1a445b909828a14e0",
+      "geometrySha256": "55c9a3adc670ba119e41290eae5f7c742776a9db441ee328bdbcb7c690794278",
+      "missingMtllib": [
+        "model_11.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_12.obj",
+      "sha256": "dffee97588bf9e7ba3dff8745173d97ce14ffbf23120eca7ac42daf08031edcc",
+      "geometrySha256": "fff37edb1a5f9e8349bde7221098228f1ad3f852c0ce954b5b742ff371e68a14",
+      "missingMtllib": [
+        "model_12.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_13.obj",
+      "sha256": "a0e3fa3ac79a574c6adf6226cf5144e5c391753e5cf10f8b4048621b9af8bf13",
+      "geometrySha256": "92c1b3f8abe82f78bd497e03867dd07e522c91198606a4b30dbc52f03b6d8017",
+      "missingMtllib": [
+        "model_13.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_14.obj",
+      "sha256": "d89b7030359dda2c299c48816fc3a0473c1dbf8e04f504b06d8e7f4c7ef8ed0d",
+      "geometrySha256": "070db153313c59d4b1ee56d4464c03f733995c53551c37dea72d38ceee7f2867",
+      "missingMtllib": [
+        "model_14.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_15.obj",
+      "sha256": "8250c89263c0428b1be63b0972ab1fca0f543af6f6099b7c793c9c38817d87ee",
+      "geometrySha256": "e52ad4ad4620d90e88dd0784a2d3387790717cbd8a6f8937be003720d4b0a0a8",
+      "missingMtllib": [
+        "model_15.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_16.obj",
+      "sha256": "5dbd98bbe4a4cde521d90bb9bce4e04656fa32f9cb68b78e240e799ecd2b95c2",
+      "geometrySha256": "177d675fafc3b5a2a0348761285b236522fd0a15c61b7447aa390cc0c2b14acd",
+      "missingMtllib": [
+        "model_16.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_17.obj",
+      "sha256": "b246faf52831001f8b024f3b1711e65e70d13548b68d10ca5e7ec8840b4cb7de",
+      "geometrySha256": "63d151fb6b794044c604ac1ef303538a6b37dbf351bc4474192a4b7b72fa25c9",
+      "missingMtllib": [
+        "model_17.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_18.obj",
+      "sha256": "e324d9427917e1d1eefbce62fe271dccbf0c4076b953a365b9653e9d0c26aadf",
+      "geometrySha256": "6d1718cd0ecb6620aba139472d0a92a413d662d8f42551163d254ccf95494c20",
+      "missingMtllib": [
+        "model_18.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_19.obj",
+      "sha256": "bdc861ec660ab1fc2b39e165a361c2ff39a8ecf21166ce11bff5a1e0f41c672d",
+      "geometrySha256": "fbc22ecd1ea9e4e46324be9681ca7ec621f60b2d435a19dfe2375cebf014bbdc",
+      "missingMtllib": [
+        "model_19.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_20.obj",
+      "sha256": "7590903694bd2f847a2861fb824145f1261709771fbc4e87aab6fcc4562ffc1c",
+      "geometrySha256": "f1e2aedc42258c9cfece643da67579aeb1073f96fb8e86bbe0676cc762286223",
+      "missingMtllib": [
+        "model_20.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_21.obj",
+      "sha256": "b13f1f192eac86e87737d5af211cf32aeb2490ef352722f835bee31bc8a53cd2",
+      "geometrySha256": "2019a1591441dc1acf3646d1a20cb98ea697bf3513e5e29f7371c95b75bf23e0",
+      "missingMtllib": [
+        "model_21.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_22.obj",
+      "sha256": "8070d570cea4c911f0091eae89a3265ed65fc6eb12a0fabc4b2a2e6a632845de",
+      "geometrySha256": "940bba5507ba0eb352ffc6763bb05de0ccf1dc3633818340ea008bbdabd720ee",
+      "missingMtllib": [
+        "model_22.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_23.obj",
+      "sha256": "30cf701c85dab75dcaf9111a97c2216c4cc66d5ddef03ff625a946ae4a700109",
+      "geometrySha256": "a4b08be9417f798f8a738cdd685c8becab113c80a925e6aeea215740d8a315cb",
+      "missingMtllib": [
+        "model_23.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_24.obj",
+      "sha256": "5c5bde3bbe53b8186759862c4eb673e99ed30697892f6c60887b5895c1f2d058",
+      "geometrySha256": "8d47cfc5b9eaf4c4146f1f48a2a05bd5288a4a6d175b1d1ef3bff52291c483c2",
+      "missingMtllib": [
+        "model_24.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_25.obj",
+      "sha256": "7d9827e6c60a878b91a7b3f24351242647308dcf4c204a8f8656929ff3270439",
+      "geometrySha256": "3f2bca9db231bef676bd161047eb6ae75a7bdf2196d6d072f00c2b8d1e49beae",
+      "missingMtllib": [
+        "model_25.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_26.obj",
+      "sha256": "7236b4a3478cb74ea919836f9297be8dc65917ddc6924ffa9c0452559d8a950f",
+      "geometrySha256": "93cf72aedb113847b86fabfd2bb7c4f0584bf120cfd5c8d763599489cff54d9f",
+      "missingMtllib": [
+        "model_26.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_27.obj",
+      "sha256": "92cb533d557fb9b5f3e96f9fbd23fcf75055224ed457249fe4068cd10fdabd5c",
+      "geometrySha256": "a1184a087ca2b680b45c409c9c9f87e164672ef9f319b51e38a9ca037efe7979",
+      "missingMtllib": [
+        "model_27.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_28.obj",
+      "sha256": "aae64d5586aa22641c729d4dc8f1160e3bdf24c074f853fd2345ec4c9b61367c",
+      "geometrySha256": "19370ddf5a481d38b331deb7f8c123f992ca77496bf50dd664f2d113e682ca9d",
+      "missingMtllib": [
+        "model_28.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_29.obj",
+      "sha256": "3c418eb43d7bf28f8181769d78cd95655d51d04c206846f1a9c07b5019c67c0e",
+      "geometrySha256": "b02df565cb064216ba02314022c6c6e4fe6cfc60c16df364a7af1512c2432fdf",
+      "missingMtllib": [
+        "model_29.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_30.obj",
+      "sha256": "9e11d1a93b386451429945ba73a359ed6a04a28ea1186ebe2ac62d840a9a1541",
+      "geometrySha256": "24bb0edcfa485705f046db71cf50511ca06b6a40801589dc3174a5fdfa6e9d82",
+      "missingMtllib": [
+        "model_30.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\BUS Yuxdesign high detail polygon model\\model_31.obj",
+      "sha256": "7d894056c0f79bf56aeffde16d5b10d145b67811317881e6c8b2b2eae0a96d04",
+      "geometrySha256": "8617c1fdfc0998c605a945e41465632a5f9556ed3aab49c2d88d0584a0a87570",
+      "missingMtllib": [
+        "model_31.mtl"
+      ]
+    }
+  ],
+  "modifications": [
+    "Uniform normalization of freshly imported static derivative only; centered horizontal origin and minimum Z=0; source geometry and files retained",
+    "Missing OBJ MTL: documented provisional part-level PBR materials; no source logos/textures copied to buses",
+    "Per-part decimation to web presentation budget; part hierarchy and source scene preserved",
+    "Original Portuguese 3D PREPARATÓRIO/HOSPITAL CENTRO fleet signage added"
+  ]
+}
