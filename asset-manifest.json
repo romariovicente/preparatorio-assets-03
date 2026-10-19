@@ -38,6 +38,24 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/additions20261016/TRAIN_Centraal_Station_LOD1_20261016.png"
     },
     {
+      "path": "/assets/characters/CHR_Remy_Mixamo_20261005.glb",
+      "bytes": 35079156,
+      "sha256": "4d1caf2e917b0496438460e61a496ca0bd4342f52735651dea77a68a545f3d0e",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_Remy_Mixamo_20261005.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_Remy_Senac_Uniform_20261013.glb",
+      "bytes": 38973072,
+      "sha256": "2cff412ae103b9b7d996d264bd4908cf80bd4e4dc93447afb53bc671c9542bfc",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_Remy_Senac_Uniform_20261013.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v3.glb",
+      "bytes": 3544420,
+      "sha256": "a0f6a4272d959bdfe2600df16129b2058db9077f73843ebb283b160049d7712c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v3.glb"
+    },
+    {
       "path": "/assets/characters/CHR_bone_seraph_skeletal_angel_Rig_v2.glb",
       "bytes": 4973648,
       "sha256": "610619b8d03370c42f5ce1789eb0a8c575f69d32361894d138ac27a10b923571",
@@ -72,24 +90,6 @@
       "bytes": 5766080,
       "sha256": "00f175ce2210df98d8ad4fa1fb3538ceabe6e9b62a5896e7f14ccdf9ac4e9265",
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_plague_doctor_alchemist___glass_beak_mask_Actions_v3.glb"
-    },
-    {
-      "path": "/assets/characters/CHR_Remy_Mixamo_20261005.glb",
-      "bytes": 35079156,
-      "sha256": "4d1caf2e917b0496438460e61a496ca0bd4342f52735651dea77a68a545f3d0e",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_Remy_Mixamo_20261005.glb"
-    },
-    {
-      "path": "/assets/characters/CHR_Remy_Senac_Uniform_20261013.glb",
-      "bytes": 38973072,
-      "sha256": "2cff412ae103b9b7d996d264bd4908cf80bd4e4dc93447afb53bc671c9542bfc",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_Remy_Senac_Uniform_20261013.glb"
-    },
-    {
-      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v3.glb",
-      "bytes": 3544420,
-      "sha256": "a0f6a4272d959bdfe2600df16129b2058db9077f73843ebb283b160049d7712c",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v3.glb"
     },
     {
       "path": "/assets/characters/CHR_thai_student_v9_Actions_v3.glb",
@@ -186,6 +186,12 @@
       "bytes": 4296812,
       "sha256": "2efaf719694bb44c7e561b06abb72e5cbd9234f50b49c4afa9ebdc7ce5f63011",
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/environments/ENV_Classroom_Futuristic_20261007.glb"
+    },
+    {
+      "path": "/assets/environments/ENV_Hospital_Entrance_Platform_20261019.glb",
+      "bytes": 3044,
+      "sha256": "34d40c3c556de81f3ee148407d31d94e46ee6396daac33f24a420103e777628b",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/environments/ENV_Hospital_Entrance_Platform_20261019.glb"
     },
     {
       "path": "/assets/models/MOD_Crosswalk_01.glb",
@@ -290,6 +296,42 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_9f5f51f18e4c487b9e4d1643ff36acd3.jpg"
     },
     {
+      "path": "/assets/supplied/SUP_Anatomic_Muscle_study.jpg",
+      "bytes": 16451,
+      "sha256": "1b617a5bea723b9b0a78d741ffbe90bb503f7c7a81714e2a2ebef16c6d44d7ed",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Anatomic_Muscle_study.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Futuristic_Spaceship.glb",
+      "bytes": 4133392,
+      "sha256": "8f4cee1b18f06fe0c33d44c14c1d423d45241b6b621c5517092e84daf50d83d0",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Futuristic_Spaceship.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.glb",
+      "bytes": 8182156,
+      "sha256": "2aa2c0259d6e4dea471d70be392ff4c5dc2e9ef06b3586d315fa19d322532f77",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.jpg",
+      "bytes": 12665,
+      "sha256": "fc7953b7202fdcd5646c575c8b2299f91a067f257f029064343bd1a1995b2cb3",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Transport_shuttle.jpg",
+      "bytes": 13662,
+      "sha256": "f8217ec432fc13d50d53d74f065904c304bc0707c119268d2e52c0e9431c6b86",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Transport_shuttle.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Vitruvian_Man_3D.jpg",
+      "bytes": 10510,
+      "sha256": "b34fd493f93d5df5976e5f53c0d8daf916d61a840d48e4c6aa389ff119e2bae2",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Vitruvian_Man_3D.jpg"
+    },
+    {
       "path": "/assets/supplied/SUP_acce79be32c14c4fb9309567728a3.jpg",
       "bytes": 13183,
       "sha256": "8a20ef116aaa701f99e569bbd541929fafc720e8e8867327b622bc2f7b2088f0",
@@ -300,12 +342,6 @@
       "bytes": 3218524,
       "sha256": "7b2c1bac3728b9cfbaec7748245e52b1434b3d5e0792f43758f22c0f8342bb6d",
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_african_wild_dog.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Anatomic_Muscle_study.jpg",
-      "bytes": 16451,
-      "sha256": "1b617a5bea723b9b0a78d741ffbe90bb503f7c7a81714e2a2ebef16c6d44d7ed",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Anatomic_Muscle_study.jpg"
     },
     {
       "path": "/assets/supplied/SUP_asian_billboards_signboards_kit.glb",
@@ -416,12 +452,6 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_futuristic_muscle_car_launch_control_ready.jpg"
     },
     {
-      "path": "/assets/supplied/SUP_Futuristic_Spaceship.glb",
-      "bytes": 4133392,
-      "sha256": "8f4cee1b18f06fe0c33d44c14c1d423d45241b6b621c5517092e84daf50d83d0",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Futuristic_Spaceship.glb"
-    },
-    {
       "path": "/assets/supplied/SUP_graffiti_hover_bike.glb",
       "bytes": 17618620,
       "sha256": "690386bc422c146c86e22565ec413cf14d84cfa3be1a2ccec0c7c605142b0c75",
@@ -450,12 +480,6 @@
       "bytes": 2139452,
       "sha256": "b66627122f4c71e967bcb54b885b232d7b24ca070b31216c6252f57d3fffd42c",
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_jumpsuit_low_poly.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.glb",
-      "bytes": 8182156,
-      "sha256": "2aa2c0259d6e4dea471d70be392ff4c5dc2e9ef06b3586d315fa19d322532f77",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.glb"
     },
     {
       "path": "/assets/supplied/SUP_light_fighter_spaceship___free__.glb",
@@ -546,12 +570,6 @@
       "bytes": 21393,
       "sha256": "89370be52dac3f696574e7ddc1e27f26e69378ce67ed3db706ce7f0f4261fb11",
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_reachmultiplayerdefiantcondem.jpg"
-    },
-    {
-      "path": "/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.jpg",
-      "bytes": 12665,
-      "sha256": "fc7953b7202fdcd5646c575c8b2299f91a067f257f029064343bd1a1995b2cb3",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.jpg"
     },
     {
       "path": "/assets/supplied/SUP_sa342m_gazelle.glb",
@@ -650,12 +668,6 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_transparency_mercedes_amg_one.jpg"
     },
     {
-      "path": "/assets/supplied/SUP_Transport_shuttle.jpg",
-      "bytes": 13662,
-      "sha256": "f8217ec432fc13d50d53d74f065904c304bc0707c119268d2e52c0e9431c6b86",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Transport_shuttle.jpg"
-    },
-    {
       "path": "/assets/supplied/SUP_trilhos_obj_20261016.glb",
       "bytes": 138544,
       "sha256": "b6d70baf26d33df8afb902fbb5acb03a90b48050c40ee79fd3567e8d0b1c421d",
@@ -684,12 +696,6 @@
       "bytes": 3143336,
       "sha256": "8cec5e11676cbbeefa5d113a2dc8316ab5c15e2e71f936f1714445e2ce38ca1b",
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_vending_machine2k_retro_futuristic.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Vitruvian_Man_3D.jpg",
-      "bytes": 10510,
-      "sha256": "b34fd493f93d5df5976e5f53c0d8daf916d61a840d48e4c6aa389ff119e2bae2",
-      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/supplied/SUP_Vitruvian_Man_3D.jpg"
     },
     {
       "path": "/assets/supplied/SUP_volkswagen_atlas_teramont_cross_sport_2025.glb",
