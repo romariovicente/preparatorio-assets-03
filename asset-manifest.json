@@ -116,6 +116,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/CHR_woman_standing_v33_Rig_v2.glb"
     },
     {
+      "path": "/assets/characters/runtime/CHR_Remy_Senac_Uniform_Web_20261021.glb",
+      "bytes": 13841868,
+      "sha256": "4dd63fe6395a88ad502d87c6289d3c98d20eeccb76ce2de441a88d0d92997475",
+      "url": "https://romariovicente.github.io/preparatorio-assets-03/assets/characters/runtime/CHR_Remy_Senac_Uniform_Web_20261021.glb"
+    },
+    {
       "path": "/assets/cyber/CHR_PREP_jumpsuit_low_poly_Coat_20261005.glb",
       "bytes": 2598596,
       "sha256": "6d50c060546e290a2493b8ee7c81b2fca899a11eafd3cd8f55c6addc82d07b01",
